@@ -7,6 +7,17 @@
   ],
   "main": "themoviedb.js",
   "dependencies": {
-  	"themovidedb-javascript-library" : "1.0.0"
-  }
+    "themovidedb-javascript-library": "1.0.0"
+  },
+  "homepage": "https://github.com/mag1ster/movie-family",
+  "authors": [
+    "mag1ster <mag1ster.jv@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
