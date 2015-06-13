@@ -1,0 +1,4 @@
+components
+git add .gitignore
+git commit -m 'added .gitignore file'
+bower install

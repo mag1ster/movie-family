@@ -1,0 +1,12 @@
+{
+  "name": "movieFamily",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": [
+    "main.js"
+  ],
+  "main": "themoviedb.js",
+  "dependencies": {
+  	"themovidedb-javascript-library" : "1.0.0"
+  }
+}
